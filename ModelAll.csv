@@ -1,0 +1,202 @@
+﻿Model,Name,Value
+Model 3,vehicle_description,Model 3 Standard
+Model 3,paint_description,Midnight Silver Metallic
+Model 3,paint_cost,0
+Model 3,interior_description,Black
+Model 3,interior_cost,0
+Model 3,rims_description,18Aero Wheels
+Model 3,rims_cost,0
+Model 3,rims_selected,18
+Model 3,autopilot,false,
+Model 3,autopilot_cost,0
+Model 3,autopilot_description, 'AutoPilot None'
+Model 3,full_self_driving,false,
+Model 3,full_self_driving_cost,0
+Model 3,full_self_driving_description,'Full Self Driving None'
+Model 3,wallcharger,false,
+Model 3,wallcharger_cost,0
+Model 3,wallcharger_description,'Wall Charger None'
+Model 3,mobilecharger,false,
+Model 3,mobilecharger_cost,0
+Model 3,mobilecharger_description,'Mobile Charger None'
+Model 3,destination_fee,1390
+Model 3,vehicle_price,40240
+Model 3,VehicleTotal,0,
+Model 3,StandardPprice,"$40,240"
+Model 3,StandardActualPrice,40240
+Model 3,StandardPpriceSavings,"$27,940"
+Model 3,StandardLoanPrice,$560
+Model 3,StandardLoanPriceSavings,$414
+Model 3,StandardLeasePrice,$429
+Model 3,StandardLeasePriceSavings,$362
+Model 3,LongRangePprice,"$47,240"
+Model 3,LongRangeActualPrice,47240
+Model 3,LongRangePpriceSavings,"$34,940"
+Model 3,LongRangeLoanPrice,$666
+Model 3,LongRangeLoanPriceSavings,$520
+Model 3,LongRangeLeasePrice,$524
+Model 3,LongRangeLeasePriceSavings,$457
+Model 3,PerformancePprice,"$53,240"
+Model 3,PerformanceActualPrice,53240
+Model 3,PerformancePpriceSavings,"$40,940"
+Model 3,PerformanceLoanPrice,$757
+Model 3,PerformanceLoanPriceSavings,$611
+Model 3,PerformanceLeasePrice,$634
+Model 3,PerformanceLeasePriceSavings,$567
+Model 3,StandardRange,272mi
+Model 3,LongRangeRange,333mi
+Model 3,PerformanceRange,315mi
+Model 3,StandardTopSpeed,140mph
+Model 3,LongRangeTopSpeed,145mph
+Model 3,PerformanceTopSpeed,162mph
+Model 3,StandardAccel,5.8sec
+Model 3,LongRangeAccel,4.2sec
+Model 3,PerformanceAccel,3.1sec
+Model Y,vehicle_description,Model Y Standard
+Model Y,paint_description,Midnight Silver Metallic
+Model Y,paint_cost,0
+Model Y,interior_description,Interior - Black
+Model Y,interior_cost,0
+Model Y,interior_rows,5 Seat Option
+Model Y,interior_row_cost,0
+Model Y,rims_description,19" Gemini Wheelss
+Model Y,rims_cost,0
+Model Y,rims_selected,19
+Model Y,autopilot,false,
+Model Y,autopilot_cost,0
+Model Y,autopilot_description, 'AutoPilot None'
+Model Y,full_self_driving,false,
+Model Y,full_self_driving_cost,0
+Model Y,full_self_driving_description,'Full Self Driving None'
+Model Y,wallcharger,false,
+Model Y,wallcharger_cost,0
+Model Y,wallcharger_description,'Wall Charger None'
+Model Y,mobilecharger,false,
+Model Y,mobilecharger_cost,0
+Model Y,mobilecharger_description,'Mobile Charger None'
+Model Y,destination_fee,1390
+Model Y,vehicle_price,43990
+Model Y,VehicleTotal,0,
+Model Y,StandardPprice,"$43,990"
+Model Y,StandardActualPrice,43990
+Model Y,StandardPpriceSavings,"$32,880"
+Model Y,StandardLoanPrice,$626
+Model Y,StandardLoanPriceSavings,$437
+Model Y,StandardLeasePrice,$499
+Model Y,StandardLeasePriceSavings,$399
+Model Y,LongRangePprice,"$50,490"
+Model Y,LongRangeActualPrice,50490
+Model Y,LongRangePpriceSavings,"$39,390"
+Model Y,LongRangeLoanPrice,$725
+Model Y,LongRangeLoanPriceSavings,$536
+Model Y,LongRangeLeasePrice,$569
+Model Y,LongRangeLeasePriceSavings,$469
+Model Y,PerformancePprice,"$54,490"
+Model Y,PerformanceActualPrice,54490
+Model Y,PerformancePpriceSavings,"$43,390"
+Model Y,PerformanceLoanPrice,$786
+Model Y,PerformanceLoanPriceSavings,$597
+Model Y,PerformanceLeasePrice,$649
+Model Y,PerformanceLeasePriceSavings,$548
+Model Y,StandardRange,279
+Model Y,LongRangeRange,330mi
+Model Y,PerformanceRange,303mi
+Model Y,StandardTopSpeed,135mph
+Model Y,LongRangeTopSpeed,135mph
+Model Y,PerformanceTopSpeed,155mph
+Model Y,StandardAccel,5.0sec
+Model Y,LongRangeAccel,4.8sec
+Model Y,PerformanceAccel,3.5sec
+Model X,vehicle_description,Model X Standard
+Model X,paint_description,Midnight Silver Metallic
+Model X,paint_cost,0
+Model X,interior_description,Interior - Black
+Model X,interior_cost,0
+Model X,interior_rows,5 Seat Option
+Model X,interior_row_cost,0
+Model X,steering_description,Regular Steering Wheel
+Model X,steering_cost,0
+Model X,rims_description,20" Cyberstream Wheels Included
+Model X,rims_cost,0
+Model X,rims_selected,20
+Model X,autopilot,false,
+Model X,autopilot_cost,0
+Model X,autopilot_description, 'AutoPilot None'
+Model X,full_self_driving,false,
+Model X,full_self_driving_cost,0
+Model X,full_self_driving_description,'Full Self Driving None'
+Model X,wallcharger,false,
+Model X,wallcharger_cost,0
+Model X,wallcharger_description,'Wall Charger None'
+Model X,mobilecharger,false,
+Model X,mobilecharger_cost,0
+Model X,mobilecharger_description,'Mobile Charger None'
+Model X,destination_fee,1390
+Model X,vehicle_price,79990
+Model X,VehicleTotal,0,
+Model X,StandardPprice,"$79,990"
+Model X,StandardActualPrice,79990
+Model X,StandardPpriceSavings,"$68,590"
+Model X,StandardLoanPrice,"$1,176"
+Model X,StandardLoanPriceSavings,$978
+Model X,StandardLeasePrice,"$1,099"
+Model X,StandardLeasePriceSavings,$991
+Model X,PlaidPprice,"$89,990"
+Model X,PlaidActualPrice,89990
+Model X,PlaidPpriceSavings,"$86,090"
+Model X,PlaidLoanPrice,"$1,329"
+Model X,PlaidLoanPriceSavings,"$1,221"
+Model X,PlaidLeasePrice,"$1,249"
+Model X,PlaidLeasePriceSavings,"$1,141"
+Model X,StandardRange,348mi
+Model X,PlaidRange,333mi
+Model X,StandardTopSpeed,149mph
+Model X,PlaidTopSpeed,149mph
+Model X,StandardAccel,3.8sec
+Model X,PlaidAccel,2.5sec
+Model S,vehicle_description,Model S Standard
+Model S,paint_description,Midnight Silver Metallic
+Model S,paint_cost,0
+Model S,interior_description,Interior - Black
+Model S,interior_cost,0
+Model S,interior_rows,5 Seat Option
+Model S,interior_row_cost,0
+Model S,rims_description,19" Tempest Wheels
+Model S,rims_cost,0
+Model S,rims_selected,19
+Model S,autopilot,false,
+Model S,autopilot_cost,0
+Model S,autopilot_description, 'AutoPilot None'
+Model S,full_self_driving,false,
+Model S,full_self_driving_cost,0
+Model S,full_self_driving_description,'Full Self Driving None'
+Model S,wallcharger,false,
+Model S,wallcharger_cost,0
+Model S,wallcharger_description,'Wall Charger None'
+Model S,mobilecharger,false,
+Model S,mobilecharger_cost,0
+Model S,mobilecharger_description,'Mobile Charger None'
+Model S,destination_fee,1390
+Model S,vehicle_price,71090
+Model S,VehicleTotal,0,
+Model S,StandardPprice,"$74,490"
+Model S,StandardActualPrice,74490
+Model S,StandardPpriceSavings,"$65,890"
+Model S,StandardLoanPrice,"$1,099"
+Model S,StandardLoanPriceSavings,$991
+Model S,StandardLeasePrice,$991
+Model S,StandardLeasePriceSavings,$891
+Model S,PlaidPprice,"$89,990"
+Model S,PlaidActualPrice,89990
+Model S,PlaidPpriceSavings,"$80,890"
+Model S,PlaidLoanPrice,"$1,329"
+Model S,PlaidLoanPriceSavings,"$1,221"
+Model S,PlaidLeasePrice,"$1,249"
+Model S,PlaidLeasePriceSavings,"$1,141"
+Model S,StandardRange,405
+Model S,PlaidRange,396mi
+Model S,StandardTopSpeed,149mph
+Model S,PlaidTopSpeed,200mph
+Model S,StandardAccel,3.1sec
+Model S,PlaidAccel,1.99sec
+
