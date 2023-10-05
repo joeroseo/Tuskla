@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "192.168.56.115",
+  HOST: "localhost",
   USER: "root",
   PASSWORD: "test1234",
   DB: "CartDb",
