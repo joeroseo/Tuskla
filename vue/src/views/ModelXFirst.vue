@@ -268,13 +268,13 @@ style=" width: 80%; ">
 </div>
 <br>
 <input type="checkbox" id="fullSelfDriving" name="FullSelfDriving" v-model="$store.state.full_self_driving" @change="setFullSelfDriving" style="margin-left: 30px;"/>
-
+<label for="fullSelfDriving"> &nbsp Add Full Self Driving </label>
 <br>
 <br>
 <h5> Charging </h5>
 <p> Home charging equipment is not included</p>
-     <div class="button-container">
-        <div class="button" style="margin-top: -5px;" @change="isOpen = true, doctype = 'Charging'">
+    <div class="button-container">
+        <div class="button" style="margin-top: -5px;" @click="isOpen = true, doctype = 'Charging'">
           <i><u>Charging Features</u></i>
         </div>
         <Modal :doctype="doctype" :open="isOpen" @close="isOpen = !isOpen"></Modal>
