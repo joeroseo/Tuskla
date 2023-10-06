@@ -58,8 +58,8 @@ export default {
   methods: {
     signUp() {
       // register and login user
-      createUserWithEmailAndPassword(auth, this.email, this.password).then(
-        () => {
+      createUserWithEmailAndPassword(auth, this.email, this.password)
+        .then(() => {
           // update 'displayName'
           updateProfile(auth.currentUser, {
             displayName: this.username,
@@ -67,17 +67,18 @@ export default {
             .then(() => {
               // emit event
               //this.$emit('loggedIn')
-              alert(
-                "You have successfully registered " + auth.currentUser.email
-              );
+              alert("You have successfully registered " + auth.currentUser.email);
               this.$router.push({ path: "/" });
             })
-
             .catch((error) => {
-              alert(error.message);
+              alert("Invalid Data.  The account may exist or the password may be to short");
+              console.error("Error updating profile:", error);
             });
-        }
-      );
+        })
+        .catch((error) => {
+          alert("Invalid Data.  The account may exist or the password may be to short");
+          console.error("Error signing up:", error);
+        });
     },
   },
 };
