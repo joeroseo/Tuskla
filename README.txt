@@ -73,4 +73,35 @@ You should see
 
 Connecting to that in chrome should start the web site
 
+Optional install Firebase 
 
+Create and configure Firebase
+(Only needed if you want to create users, send email, and use the admin or user menus)
+
+1.  Go to https://firebase.google.com/
+2.  Click "Get Started" and create an account (it is free for low volume no credit card required)
+3.  Then log in amd click "add project".  Give the project a name i.e. Tuskla
+    Uncheck google analytics and click "create project".  Then click "continue"
+5.  Click on "Authentication" then "Get Started"
+6.  Click on "Add New Provider" then "Native Providers - Email/Password" then chose enable and save
+7.  Click the home (house button) in the left pannel
+
+    If you want email to be sent (not a necessary feature) you must sign up for the Blaze plan 
+    The plan is free for low volume but does require a credit card
+
+8.  Scroll to the bottom and click on the purple extension box
+9.  Then click on "install" under "Trigger Email from Firestore"
+10. Upgrade the project to the Blaze Plan and click next
+11. Enable the necessary api's and click next
+12. Configure the email api (see https://invertase.io/blog/send-email-extension)
+    With gmail password:
+      example smtp string smtps://darren@gmail.com:{appPassword}@smtp.gmail.com:465
+    Using a secret password from google instead (see abobe web page for instructions
+      example smtp string smtps://darren@gmail.com@smtp.gmail.com:465
+      under smtp password enter the google app password 
+        (see https://invertase.io/blog/send-email-extension)
+
+To use fire store in the Tuskla app click on settings in the left pannel (grear icon)
+   Scroll down to the section - // Your web app's Firebase configuration
+      copy that section and replace the same section in the file
+      .....\Tuskla\vue\src\firebase\init.js
